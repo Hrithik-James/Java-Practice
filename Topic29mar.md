@@ -20,3 +20,5 @@ Hod also overrides the bonus(float percent) method but calls the superclass meth
 5. Dynamic Method Dispatch (Runtime Polymorphism): obj2 is declared as Faculty but instantiated as Hod, so overridden methods from Hod are invoked at runtime.
 
 ---
+Question 
+Q01[https://github.com/Hrithik-James/Java-Practice/blob/main/Questions/Q01.md]
